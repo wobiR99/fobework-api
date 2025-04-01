@@ -1,0 +1,17 @@
+{
+  "user": {
+    "name": "John Doe",
+    "totalSavings": 45376.57,
+    "totalInvestments": 120342.64,
+    "availableFunds": 10017.46,
+    "investmentPlans": [
+      { "type": "Fixed Deposit", "amount": 5000, "roi": "5% per annum" },
+      { "type": "Stocks", "amount": 3000, "roi": "8% per annum" }
+    ],
+    "emergencyFunds": 5840.8,
+    "savingsPlans": [
+      { "type": "High-Yield Savings", "balance": 5000 },
+      { "type": "Retirement Savings", "balance": 12000 }
+    ]
+  }
+}
